@@ -10,7 +10,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='../assets/images/one.JPG'
+              src='../my-website/assets/images/one.JPG'
               text='Ask for delivery..+254 708 294717 We got something for everyone.'
               label='Birthday Cakes'
               path='/services'
